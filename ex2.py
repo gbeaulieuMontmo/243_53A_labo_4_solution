@@ -1,6 +1,6 @@
 """
 Laboratoire 4 — Exercice 2 : choix du port série avec QComboBox
-243-53A-MO — Interface usager de microcontrôleurs — Cours 7
+243-53A-MO — Interface usager de microcontrôleurs — Laboratoire 4
 
 Objectif : première étape de la console ESP32-C3.
   - lister les ports série avec list_ports.comports() dans un QComboBox ;

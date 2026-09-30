@@ -1,6 +1,6 @@
 """
 Laboratoire 4 — Exercice 4 : lecture non bloquante avec QTimer
-243-53A-MO — Interface usager de microcontrôleurs — Cours 7
+243-53A-MO — Interface usager de microcontrôleurs — Laboratoire 4
 
 Objectif : ajouter à l'exercice 3 la réception des mesures.
   - LiaisonESP32.lire_lignes() retourne les lignes déjà reçues, sans attendre ;

@@ -1,6 +1,6 @@
 """
 Laboratoire 4 — Exercice 6 : classe LiaisonESP32
-243-53A-MO — Interface usager de microcontrôleurs — Cours 7
+243-53A-MO — Interface usager de microcontrôleurs — Laboratoire 4
 
 Encapsule la communication série avec l'ESP32-C3 : ouverture du port (sans
 redémarrer la carte), envoi de commandes et lecture des lignes reçues.

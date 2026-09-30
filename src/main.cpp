@@ -1,14 +1,12 @@
 #include <Arduino.h>
 /*
   Station ESP32-C3 Super Mini : mesures + commandes (programme complet)
-  243-53A-MO — Interface usager de microcontrôleurs — Cours 7
+  243-53A-MO — Interface usager de microcontrôleurs — Laboratoire 4
 
   Objectif : combiner les deux programmes du cours.
     - toutes les secondes, envoie une mesure :  TEMP:512
     - reçoit les commandes LED:ON et LED:OFF, allume ou éteint la LED,
       et répond OK:LED:ON ou OK:LED:OFF.
-
-  Utilisé par les exemples Python 02, 07, 09 et par l'exercice guidé (10).
 
   Comme delay() bloquerait la lecture des commandes, on mesure le temps
   avec millis() : loop() ne s'arrête jamais.

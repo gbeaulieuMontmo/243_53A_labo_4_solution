@@ -1,6 +1,6 @@
 """
 Laboratoire 4 — Exercice 5 : envoi de commandes à la carte
-243-53A-MO — Interface usager de microcontrôleurs — Cours 7
+243-53A-MO — Interface usager de microcontrôleurs — Laboratoire 4
 
 Objectif : ajouter à l'exercice 4 l'envoi de commandes.
   - LiaisonESP32.envoyer() ajoute le \n final et encode la commande ;

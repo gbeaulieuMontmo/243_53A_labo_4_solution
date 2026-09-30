@@ -1,6 +1,6 @@
 """
 Laboratoire 4 — Exercice 6 : console de communication complète (synthèse)
-243-53A-MO — Interface usager de microcontrôleurs — Cours 7
+243-53A-MO — Interface usager de microcontrôleurs — Laboratoire 4
 
 Objectif : une interface PySide6 simple qui réunit les notions du cours 7 :
   - choisir le port dans un QComboBox, puis se connecter / se déconnecter ;

@@ -1,6 +1,6 @@
 """
 Laboratoire 4 — Exercice 6 : classe Fenetre (console ESP32-C3)
-243-53A-MO — Interface usager de microcontrôleurs — Cours 7
+243-53A-MO — Interface usager de microcontrôleurs — Laboratoire 4
 
 Fenêtre PySide6 de la console : choix du port, connexion / déconnexion,
 affichage de la dernière mesure, commande de la LED, commande libre et

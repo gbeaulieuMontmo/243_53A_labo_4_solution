@@ -1,6 +1,6 @@
 """
 Laboratoire 4 — Exercice 3 : connexion et déconnexion (classe LiaisonESP32)
-243-53A-MO — Interface usager de microcontrôleurs — Cours 7
+243-53A-MO — Interface usager de microcontrôleurs — Laboratoire 4
 
 Objectif : ajouter à l'exercice 2 l'ouverture et la fermeture du port.
   - ouvrir_port() ouvre le port sans redémarrer l'ESP32-C3 (DTR/RTS à False) ;
